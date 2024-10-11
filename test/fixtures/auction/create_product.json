@@ -1,0 +1,53 @@
+{
+    "brandInformation": {
+        "brand": "My branding",
+        "brandModel": "My awesome model",
+        "condition": "Brand New",
+        "repairHistory": "Yes",
+        "warranty": "3 Weeks",
+        "description": "Some product description goes here"
+    },
+    "productInfo": {
+        "shippingInformation": {
+            "deliveryPeriod": "1-2 days",
+            "pickUpAvailable": "No",
+            "description": "everything you need to know about the shippping",
+            "regions": [
+                "Lagos",
+                "Bauchi",
+                "Enugu"
+            ]
+        },
+        "category": "62e8df8c8a7850001a4e9407",
+        "isFavorite": false,
+        "photos": [
+            "https: //res.cloudinary.com/auctionvillage/image/upload/v1659740141/mobile/app/image_picker_B07B1A00-4EA0-45E6-9AD3-B8C9D544D21A-37123-000007024BBF0D33.jpg"
+        ],
+        "name": "Boxing Machine",
+        "country": "NIGERIA",
+        "tags": [
+            "drawer",
+            "home",
+            "electronics",
+            "real-estates"
+        ],
+        "termsInformation": {
+            "yearOfPurchase": 0,
+            "repairHistory": "",
+            "warranty": "",
+            "height": 0,
+            "refundPolicy": "",
+            "otherAvailable": "",
+            "otherDescription": ""
+        }
+    },
+    "basePrice": 420,
+    "amount": 420,
+    "offerType": "NON_NEGOTIABLE",
+    "startDate": "2022-08-05T23:56:00.000",
+    "endDate": "2022-08-09T00:00:00.000",
+    "type": "AUCTION",
+    "availableItems": 1,
+    "quantity": "SINGLE_ITEM",
+    "biddingType": "ONLINE"
+}

@@ -1,0 +1,44 @@
+{
+    "state": "Lagos",
+    "lga": "Ojo",
+    "brandInformation": {
+        "color": "#1998fe",
+        "brand": "My awesome brand",
+        "brandModel": "My awesome model",
+        "yearOfManufacturer": "2015",
+        "transmission": "Some transmission",
+        "condition": "Used"
+    },
+    "deal": {
+        "type": "AUCTION",
+        "plan": "FREE",
+        "basePrice": 5000,
+        "quantity": "LOT",
+        "biddingType": "ONLINE",
+        "startDate": "2022-03-29T23:04:18.000Z",
+        "endDate": "2022-04-13T05:30:25.000Z"
+    },
+    "name": "Mercedes 2013",
+    "category": "622b90f2fa66f9001a8a2e64",
+    "subCategory": "6229f6ceedf128001a762615",
+    "description": "The item description",
+    "shippingInformation": {
+        "weight": "20",
+        "length": "10",
+        "width": "15",
+        "height": "8",
+        "deliveryPeriod": "1 month",
+        "pickUpAvailable": "No",
+        "description": "Some shipping description"
+    },
+    "termsInformation": {
+        "yearOfPurchase": "2022",
+        "repairHistory": "No",
+        "warranty": "6 months",
+        "refundPolicy": "Yes",
+        "otherInfo": "Some other information - additional stuff"
+    },
+    "photos": [
+        "https://res.cloudinary.com/dpiyqfdpk/image/upload/v1648550883/hdganotjd6fdg7nqylo1.png"
+    ]
+}

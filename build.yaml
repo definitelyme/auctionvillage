@@ -1,0 +1,24 @@
+targets:
+  $default:
+    # sources:
+    #   exclude:
+    #     - /lib/features/core/data/response/dynamic_response/**.dart
+    #     - /lib/features/core/data/response/dynamic_response/**
+    #     - /lib/features/core/data/response/dynamic_response/
+    builders:
+      json_serializable:
+        options:
+          # generic_argument_factories: true
+          create_to_json: true
+          explicit_to_json: true
+          include_if_null: false
+          field_rename: none
+      freezed:
+        options:
+          union_key: type
+          union_value_case: snake
+          maybe_when: false
+          # maybe_map: false
+      # source_gen:combining_builder:
+      #   generate_for:
+      #     - lib/**/remote/

@@ -1,0 +1,91 @@
+{
+    "status": true,
+    "message": "Verification successful",
+    "data": {
+        "id": 2288807414,
+        "domain": "test",
+        "status": "success",
+        "reference": "av.mobile.beta_2022-11-16T15:03:30.403637",
+        "amount": 20000,
+        "message": null,
+        "gateway_response": "Approved",
+        "paid_at": "2022-11-16T14:04:30.000Z",
+        "created_at": "2022-11-16T14:04:29.000Z",
+        "channel": "card",
+        "currency": "NGN",
+        "ip_address": "127.0.0.1",
+        "metadata": {
+            "custom_fields": [
+                {
+                    "value": "Brendan Staging2",
+                    "display_name": "Full Name",
+                    "variable_name": "full name"
+                },
+                {
+                    "value": "+2348100395182",
+                    "display_name": "Phone Number",
+                    "variable_name": "phone number"
+                },
+                {
+                    "value": "av.staging3@forx.anonaddy.com",
+                    "display_name": "Email Address",
+                    "variable_name": "email address"
+                },
+                {
+                    "value": "NGN",
+                    "display_name": "Payment Currency",
+                    "variable_name": "payment currency"
+                },
+                {
+                    "value": "av.mobile.beta_2022-11-16T15:03:30.403637",
+                    "display_name": "Payment Reference",
+                    "variable_name": "payment reference"
+                }
+            ],
+            "transactionType": "CR"
+        },
+        "log": null,
+        "fees": 300,
+        "fees_split": null,
+        "authorization": {
+            "authorization_code": "AUTH_m39tmbycl5",
+            "bin": "408408",
+            "last4": "4081",
+            "exp_month": "11",
+            "exp_year": "2023",
+            "channel": "card",
+            "card_type": "visa ",
+            "bank": "TEST BANK",
+            "country_code": "NG",
+            "brand": "visa",
+            "reusable": true,
+            "signature": "SIG_1wksqODb6YNuuSJbciXG",
+            "account_name": null,
+            "receiver_bank_account_number": null,
+            "receiver_bank": null
+        },
+        "customer": {
+            "id": 102610003,
+            "first_name": null,
+            "last_name": null,
+            "email": "av.staging3@forx.anonaddy.com",
+            "customer_code": "CUS_ypjiaxf6ot3sylg",
+            "phone": null,
+            "metadata": null,
+            "risk_action": "default",
+            "international_format_phone": null
+        },
+        "plan": null,
+        "split": {},
+        "order_id": null,
+        "paidAt": "2022-11-16T14:04:30.000Z",
+        "createdAt": "2022-11-16T14:04:29.000Z",
+        "requested_amount": 20000,
+        "pos_transaction_data": null,
+        "source": null,
+        "fees_breakdown": null,
+        "transaction_date": "2022-11-16T14:04:29.000Z",
+        "plan_object": {},
+        "subaccount": {}
+    }
+}

@@ -1,0 +1,41 @@
+library info_response.dart;
+
+import 'package:auctionvillage/core/domain/response/index.dart';
+import 'package:freezed_annotation/freezed_annotation.dart';
+
+part 'info_response.freezed.dart';
+
+enum InfoType { any, endOfList }
+
+@freezed
+@immutable
+class InfoResponse with _$InfoResponse implements Info {
+  const InfoResponse._();
+
+  const factory InfoResponse({
+    bool? status,
+    String? details,
+    @Default(InfoType.any) InfoType type,
+    required String message,
+    @JsonKey(ignore: true) @Default(false) bool pop,
+  }) = _InfoResponse;
+
+  factory InfoResponse.processing() => const InfoResponse(message: 'Processing information..please wait!');
+
+  factory InfoResponse.endOfList([String? message]) => InfoResponse(message: message ?? '', type: InfoType.endOfList);
+}
+
+extension InfoTypeX on InfoType {
+  T when<T>({
+    required T any,
+    required T endOfList,
+  }) {
+    switch (this) {
+      case InfoType.endOfList:
+        return endOfList;
+      case InfoType.any:
+      default:
+        return any;
+    }
+  }
+}

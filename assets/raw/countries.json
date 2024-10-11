@@ -1,0 +1,1970 @@
+[
+    {
+        "name": "Afghanistan",
+        "code": "AF",
+        "dialCode": "+93",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "af_AF"
+    },
+    {
+        "name": "Aland Islands",
+        "code": "AX",
+        "dialCode": "+358",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Albania",
+        "code": "AL",
+        "dialCode": "+355",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "sq_AL"
+    },
+    {
+        "name": "Algeria",
+        "code": "DZ",
+        "dialCode": "+213",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "ar_DZ"
+    },
+    {
+        "name": "American Samoa",
+        "code": "AS",
+        "dialCode": "+1684",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Andorra",
+        "code": "AD",
+        "dialCode": "+376",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "ca_AD"
+    },
+    {
+        "name": "Angola",
+        "code": "AO",
+        "dialCode": "+244",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "pt_AO"
+    },
+    {
+        "name": "Anguilla",
+        "code": "AI",
+        "dialCode": "+1264",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Antarctica",
+        "code": "AQ",
+        "dialCode": "+672",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "dialCode": "+1268",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Argentina",
+        "code": "AR",
+        "dialCode": "+54",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "es_AR"
+    },
+    {
+        "name": "Armenia",
+        "code": "AM",
+        "dialCode": "+374",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "hy_AM"
+    },
+    {
+        "name": "Aruba",
+        "code": "AW",
+        "dialCode": "+297",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "nl_AW"
+    },
+    {
+        "name": "Ascension Island",
+        "code": "AC",
+        "dialCode": "+247",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Australia",
+        "code": "AU",
+        "dialCode": "+61",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Austria",
+        "code": "AT",
+        "dialCode": "+43",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "de_AT"
+    },
+    {
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "dialCode": "+994",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "az_AZ"
+    },
+    {
+        "name": "Bahamas",
+        "code": "BS",
+        "dialCode": "+1242",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Bahrain",
+        "code": "BH",
+        "dialCode": "+973",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "ar_BH"
+    },
+    {
+        "name": "Bangladesh",
+        "code": "BD",
+        "dialCode": "+880",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "bn_BD"
+    },
+    {
+        "name": "Barbados",
+        "code": "BB",
+        "dialCode": "+1246",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Belarus",
+        "code": "BY",
+        "dialCode": "+375",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "be_BY"
+    },
+    {
+        "name": "Belgium",
+        "code": "BE",
+        "dialCode": "+32",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "nl_BE"
+    },
+    {
+        "name": "Belize",
+        "code": "BZ",
+        "dialCode": "+501",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Benin",
+        "code": "BJ",
+        "dialCode": "+229",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_BJ"
+    },
+    {
+        "name": "Bermuda",
+        "code": "BM",
+        "dialCode": "+1441",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Bhutan",
+        "code": "BT",
+        "dialCode": "+975",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "dz_BT"
+    },
+    {
+        "name": "Bolivia",
+        "code": "BO",
+        "dialCode": "+591",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "es_BO"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "dialCode": "+387",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "bs_BA"
+    },
+    {
+        "name": "Botswana",
+        "code": "BW",
+        "dialCode": "+267",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Brazil",
+        "code": "BR",
+        "dialCode": "+55",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "pt_BR"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "code": "IO",
+        "dialCode": "+246",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "code": "BN",
+        "dialCode": "+673",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "ms_BN"
+    },
+    {
+        "name": "Bulgaria",
+        "code": "BG",
+        "dialCode": "+359",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "bg_BG"
+    },
+    {
+        "name": "Burkina Faso",
+        "code": "BF",
+        "dialCode": "+226",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_BF"
+    },
+    {
+        "name": "Burundi",
+        "code": "BI",
+        "dialCode": "+257",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_BI"
+    },
+    {
+        "name": "Cambodia",
+        "code": "KH",
+        "dialCode": "+855",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Cameroon",
+        "code": "CM",
+        "dialCode": "+237",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_CM"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+        "dialCode": "+1",
+        "currency": "CAD",
+        "currency_icon": "C$",
+        "locale": "en_CA"
+    },
+    {
+        "name": "Cape Verde",
+        "code": "CV",
+        "dialCode": "+238",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "pt_CV"
+    },
+    {
+        "name": "Cayman Islands",
+        "code": "KY",
+        "dialCode": "+1345",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en_KY"
+    },
+    {
+        "name": "Central African Republic",
+        "code": "CF",
+        "dialCode": "+236",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_CF"
+    },
+    {
+        "name": "Chad",
+        "code": "TD",
+        "dialCode": "+235",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_TD"
+    },
+    {
+        "name": "Chile",
+        "code": "CL",
+        "dialCode": "+56",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "es_CL"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+        "dialCode": "+86",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "zh_CN"
+    },
+    {
+        "name": "Christmas Island",
+        "code": "CX",
+        "dialCode": "+61",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en_CX"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "code": "CC",
+        "dialCode": "+61",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en_CC"
+    },
+    {
+        "name": "Colombia",
+        "code": "CO",
+        "dialCode": "+57",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "es_CO"
+    },
+    {
+        "name": "Comoros",
+        "code": "KM",
+        "dialCode": "+269",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_KM"
+    },
+    {
+        "name": "Congo",
+        "code": "CG",
+        "dialCode": "+242",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_CG"
+    },
+    {
+        "name": "Cook Islands",
+        "code": "CK",
+        "dialCode": "+682",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en_CK"
+    },
+    {
+        "name": "Costa Rica",
+        "code": "CR",
+        "dialCode": "+506",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "es_CR"
+    },
+    {
+        "name": "Croatia",
+        "code": "HR",
+        "dialCode": "+385",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "hr_HR"
+    },
+    {
+        "name": "Cuba",
+        "code": "CU",
+        "dialCode": "+53",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "es_CU"
+    },
+    {
+        "name": "Cyprus",
+        "code": "CY",
+        "dialCode": "+357",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "el_CY"
+    },
+    {
+        "name": "Czech Republic",
+        "code": "CZ",
+        "dialCode": "+420",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "cs_CZ"
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD",
+        "dialCode": "+243",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_CD"
+    },
+    {
+        "name": "Denmark",
+        "code": "DK",
+        "dialCode": "+45",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "da_DK"
+    },
+    {
+        "name": "Djibouti",
+        "code": "DJ",
+        "dialCode": "+253",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "fr_DJ"
+    },
+    {
+        "name": "Dominica",
+        "code": "DM",
+        "dialCode": "+1767",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en_DM"
+    },
+    {
+        "name": "Dominican Republic",
+        "code": "DO",
+        "dialCode": "+1849",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "es_DO"
+    },
+    {
+        "name": "Ecuador",
+        "code": "EC",
+        "dialCode": "+593",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "es_EC"
+    },
+    {
+        "name": "Egypt",
+        "code": "EG",
+        "dialCode": "+20",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "El Salvador",
+        "code": "SV",
+        "dialCode": "+503",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+        "dialCode": "+240",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Eritrea",
+        "code": "ER",
+        "dialCode": "+291",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Estonia",
+        "code": "EE",
+        "dialCode": "+372",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Eswatini",
+        "code": "SZ",
+        "dialCode": "+268",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Ethiopia",
+        "code": "ET",
+        "dialCode": "+251",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "code": "FK",
+        "dialCode": "+500",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Faroe Islands",
+        "code": "FO",
+        "dialCode": "+298",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Fiji",
+        "code": "FJ",
+        "dialCode": "+679",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Finland",
+        "code": "FI",
+        "dialCode": "+358",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "France",
+        "code": "FR",
+        "dialCode": "+33",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "French Guiana",
+        "code": "GF",
+        "dialCode": "+594",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "French Polynesia",
+        "code": "PF",
+        "dialCode": "+689",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Gabon",
+        "code": "GA",
+        "dialCode": "+241",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Gambia",
+        "code": "GM",
+        "dialCode": "+220",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Georgia",
+        "code": "GE",
+        "dialCode": "+995",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Germany",
+        "code": "DE",
+        "dialCode": "+49",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Ghana",
+        "code": "GH",
+        "dialCode": "+233",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Gibraltar",
+        "code": "GI",
+        "dialCode": "+350",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Greece",
+        "code": "GR",
+        "dialCode": "+30",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Greenland",
+        "code": "GL",
+        "dialCode": "+299",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Grenada",
+        "code": "GD",
+        "dialCode": "+1473",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Guadeloupe",
+        "code": "GP",
+        "dialCode": "+590",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Guam",
+        "code": "GU",
+        "dialCode": "+1671",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Guatemala",
+        "code": "GT",
+        "dialCode": "+502",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG",
+        "dialCode": "+44",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Guinea",
+        "code": "GN",
+        "dialCode": "+224",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "code": "GW",
+        "dialCode": "+245",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Guyana",
+        "code": "GY",
+        "dialCode": "+592",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Haiti",
+        "code": "HT",
+        "dialCode": "+509",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "code": "VA",
+        "dialCode": "+379",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Honduras",
+        "code": "HN",
+        "dialCode": "+504",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Hong Kong",
+        "code": "HK",
+        "dialCode": "+852",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Hungary",
+        "code": "HU",
+        "dialCode": "+36",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Iceland",
+        "code": "IS",
+        "dialCode": "+354",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "India",
+        "code": "IN",
+        "dialCode": "+91",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID",
+        "dialCode": "+62",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Iran",
+        "code": "IR",
+        "dialCode": "+98",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Iraq",
+        "code": "IQ",
+        "dialCode": "+964",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Ireland",
+        "code": "IE",
+        "dialCode": "+353",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Isle of Man",
+        "code": "IM",
+        "dialCode": "+44",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Israel",
+        "code": "IL",
+        "dialCode": "+972",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Italy",
+        "code": "IT",
+        "dialCode": "+39",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Ivory Coast / Cote d'Ivoire",
+        "code": "CI",
+        "dialCode": "+225",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Jamaica",
+        "code": "JM",
+        "dialCode": "+1876",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Japan",
+        "code": "JP",
+        "dialCode": "+81",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE",
+        "dialCode": "+44",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Jordan",
+        "code": "JO",
+        "dialCode": "+962",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "dialCode": "+77",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Kenya",
+        "code": "KE",
+        "dialCode": "+254",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Kiribati",
+        "code": "KI",
+        "dialCode": "+686",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Korea, Democratic People's Republic of Korea",
+        "code": "KP",
+        "dialCode": "+850",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Korea, Republic of South Korea",
+        "code": "KR",
+        "dialCode": "+82",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Kosovo",
+        "code": "XK",
+        "dialCode": "+383",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Kuwait",
+        "code": "KW",
+        "dialCode": "+965",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "dialCode": "+996",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Laos",
+        "code": "LA",
+        "dialCode": "+856",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Latvia",
+        "code": "LV",
+        "dialCode": "+371",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Lebanon",
+        "code": "LB",
+        "dialCode": "+961",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Lesotho",
+        "code": "LS",
+        "dialCode": "+266",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Liberia",
+        "code": "LR",
+        "dialCode": "+231",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Libya",
+        "code": "LY",
+        "dialCode": "+218",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Liechtenstein",
+        "code": "LI",
+        "dialCode": "+423",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Lithuania",
+        "code": "LT",
+        "dialCode": "+370",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Luxembourg",
+        "code": "LU",
+        "dialCode": "+352",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Macau",
+        "code": "MO",
+        "dialCode": "+853",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Madagascar",
+        "code": "MG",
+        "dialCode": "+261",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Malawi",
+        "code": "MW",
+        "dialCode": "+265",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Malaysia",
+        "code": "MY",
+        "dialCode": "+60",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Maldives",
+        "code": "MV",
+        "dialCode": "+960",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Mali",
+        "code": "ML",
+        "dialCode": "+223",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Malta",
+        "code": "MT",
+        "dialCode": "+356",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Marshall Islands",
+        "code": "MH",
+        "dialCode": "+692",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Martinique",
+        "code": "MQ",
+        "dialCode": "+596",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Mauritania",
+        "code": "MR",
+        "dialCode": "+222",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Mauritius",
+        "code": "MU",
+        "dialCode": "+230",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Mayotte",
+        "code": "YT",
+        "dialCode": "+262",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Mexico",
+        "code": "MX",
+        "dialCode": "+52",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Micronesia, Federated States of Micronesia",
+        "code": "FM",
+        "dialCode": "+691",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Moldova",
+        "code": "MD",
+        "dialCode": "+373",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Monaco",
+        "code": "MC",
+        "dialCode": "+377",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Mongolia",
+        "code": "MN",
+        "dialCode": "+976",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Montenegro",
+        "code": "ME",
+        "dialCode": "+382",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Montserrat",
+        "code": "MS",
+        "dialCode": "+1664",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Morocco",
+        "code": "MA",
+        "dialCode": "+212",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Mozambique",
+        "code": "MZ",
+        "dialCode": "+258",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Myanmar",
+        "code": "MM",
+        "dialCode": "+95",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Namibia",
+        "code": "NA",
+        "dialCode": "+264",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Nauru",
+        "code": "NR",
+        "dialCode": "+674",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Nepal",
+        "code": "NP",
+        "dialCode": "+977",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Netherlands",
+        "code": "NL",
+        "dialCode": "+31",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Netherlands Antilles",
+        "code": "AN",
+        "dialCode": "+599",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "New Caledonia",
+        "code": "NC",
+        "dialCode": "+687",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "New Zealand",
+        "code": "NZ",
+        "dialCode": "+64",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Nicaragua",
+        "code": "NI",
+        "dialCode": "+505",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Niger",
+        "code": "NE",
+        "dialCode": "+227",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Nigeria",
+        "code": "NG",
+        "dialCode": "+234",
+        "currency": "NGN",
+        "currency_icon": "₦",
+        "locale": "en_NG"
+    },
+    {
+        "name": "Niue",
+        "code": "NU",
+        "dialCode": "+683",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Norfolk Island",
+        "code": "NF",
+        "dialCode": "+672",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "North Macedonia",
+        "code": "MK",
+        "dialCode": "+389",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "code": "MP",
+        "dialCode": "+1670",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Norway",
+        "code": "NO",
+        "dialCode": "+47",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Oman",
+        "code": "OM",
+        "dialCode": "+968",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Pakistan",
+        "code": "PK",
+        "dialCode": "+92",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Palau",
+        "code": "PW",
+        "dialCode": "+680",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Palestine",
+        "code": "PS",
+        "dialCode": "+970",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Panama",
+        "code": "PA",
+        "dialCode": "+507",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Papua New Guinea",
+        "code": "PG",
+        "dialCode": "+675",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Paraguay",
+        "code": "PY",
+        "dialCode": "+595",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Peru",
+        "code": "PE",
+        "dialCode": "+51",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Philippines",
+        "code": "PH",
+        "dialCode": "+63",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Pitcairn",
+        "code": "PN",
+        "dialCode": "+872",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Poland",
+        "code": "PL",
+        "dialCode": "+48",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Portugal",
+        "code": "PT",
+        "dialCode": "+351",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Puerto Rico",
+        "code": "PR",
+        "dialCode": "+1939",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Qatar",
+        "code": "QA",
+        "dialCode": "+974",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Reunion",
+        "code": "RE",
+        "dialCode": "+262",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Romania",
+        "code": "RO",
+        "dialCode": "+40",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Russia",
+        "code": "RU",
+        "dialCode": "+7",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Rwanda",
+        "code": "RW",
+        "dialCode": "+250",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "code": "BL",
+        "dialCode": "+590",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "code": "SH",
+        "dialCode": "+290",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "dialCode": "+1869",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Saint Lucia",
+        "code": "LC",
+        "dialCode": "+1758",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Saint Martin",
+        "code": "MF",
+        "dialCode": "+590",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "dialCode": "+508",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "dialCode": "+1784",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Samoa",
+        "code": "WS",
+        "dialCode": "+685",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "San Marino",
+        "code": "SM",
+        "dialCode": "+378",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "code": "ST",
+        "dialCode": "+239",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "dialCode": "+966",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Senegal",
+        "code": "SN",
+        "dialCode": "+221",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Serbia",
+        "code": "RS",
+        "dialCode": "+381",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Seychelles",
+        "code": "SC",
+        "dialCode": "+248",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Sierra Leone",
+        "code": "SL",
+        "dialCode": "+232",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Singapore",
+        "code": "SG",
+        "dialCode": "+65",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Sint Maarten",
+        "code": "SX",
+        "dialCode": "+1721",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Slovakia",
+        "code": "SK",
+        "dialCode": "+421",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Slovenia",
+        "code": "SI",
+        "dialCode": "+386",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Solomon Islands",
+        "code": "SB",
+        "dialCode": "+677",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Somalia",
+        "code": "SO",
+        "dialCode": "+252",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "South Africa",
+        "code": "ZA",
+        "dialCode": "+27",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS",
+        "dialCode": "+500",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "South Sudan",
+        "code": "SS",
+        "dialCode": "+211",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Spain",
+        "code": "ES",
+        "dialCode": "+34",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Sri Lanka",
+        "code": "LK",
+        "dialCode": "+94",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Sudan",
+        "code": "SD",
+        "dialCode": "+249",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Suriname",
+        "code": "SR",
+        "dialCode": "+597",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "dialCode": "+47",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Sweden",
+        "code": "SE",
+        "dialCode": "+46",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Switzerland",
+        "code": "CH",
+        "dialCode": "+41",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "code": "SY",
+        "dialCode": "+963",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Taiwan",
+        "code": "TW",
+        "dialCode": "+886",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Tajikistan",
+        "code": "TJ",
+        "dialCode": "+992",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Tanzania, United Republic of Tanzania",
+        "code": "TZ",
+        "dialCode": "+255",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Thailand",
+        "code": "TH",
+        "dialCode": "+66",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Timor-Leste",
+        "code": "TL",
+        "dialCode": "+670",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Togo",
+        "code": "TG",
+        "dialCode": "+228",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Tokelau",
+        "code": "TK",
+        "dialCode": "+690",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Tonga",
+        "code": "TO",
+        "dialCode": "+676",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "dialCode": "+1868",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Tunisia",
+        "code": "TN",
+        "dialCode": "+216",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Turkey",
+        "code": "TR",
+        "dialCode": "+90",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Turkmenistan",
+        "code": "TM",
+        "dialCode": "+993",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "dialCode": "+1649",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Tuvalu",
+        "code": "TV",
+        "dialCode": "+688",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Uganda",
+        "code": "UG",
+        "dialCode": "+256",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Ukraine",
+        "code": "UA",
+        "dialCode": "+380",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "dialCode": "+971",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "GB",
+        "dialCode": "+44",
+        "currency": "GBP",
+        "currency_icon": "£",
+        "locale": "en_GB"
+    },
+    {
+        "name": "United States",
+        "code": "US",
+        "dialCode": "+1",
+        "currency": "USD",
+        "currency_icon": "$",
+        "locale": "en_US"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "code": "UMI",
+        "dialCode": "+246",
+        "currency": "USD",
+        "currency_icon": "$",
+        "locale": "en_US"
+    },
+    {
+        "name": "Uruguay",
+        "code": "UY",
+        "dialCode": "+598",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "dialCode": "+998",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Vanuatu",
+        "code": "VU",
+        "dialCode": "+678",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Venezuela, Bolivarian Republic of Venezuela",
+        "code": "VE",
+        "dialCode": "+58",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Vietnam",
+        "code": "VN",
+        "dialCode": "+84",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Virgin Islands, British",
+        "code": "VG",
+        "dialCode": "+1284",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Virgin Islands, U.S.",
+        "code": "VI",
+        "dialCode": "+1340",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "code": "WF",
+        "dialCode": "+681",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Yemen",
+        "code": "YE",
+        "dialCode": "+967",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Zambia",
+        "code": "ZM",
+        "dialCode": "+260",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    },
+    {
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "dialCode": "+263",
+        "currency": "",
+        "currency_icon": "",
+        "locale": "en"
+    }
+]

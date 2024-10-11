@@ -1,0 +1,32 @@
+{
+    "_meta": {
+        "statusCode": 200,
+        "status": true
+    },
+    "data": {
+        "basePrice": 2000,
+        "isPrivate": true,
+        "status": "PENDING",
+        "sponsored": false,
+        "plan": "FREE",
+        "admittanceFee": 0,
+        "clicks": 3,
+        "dealPriority": 1,
+        "bidStatus": "LIVE",
+        "isClosing": false,
+        "active": true,
+        "_id": "622b29c0d7a85222d1c9d003",
+        "user": "621e5519cf9db73d2366b001",
+        "type": "AUCTION",
+        "startDate": "2022-01-03T00:00:00.000Z",
+        "endDate": "2022-01-04T00:00:00.000Z",
+        "offerType": "NEGOTIABLE",
+        "category": "621984ac4b8ea47fa7a06df0",
+        "createdAt": "2022-03-11T10:51:44.149Z",
+        "updatedAt": "2022-03-11T11:15:13.836Z",
+        "__v": 0,
+        "vendor": "622b29c0d7a85222d1c9d005",
+        "product": "622b29c0d7a85222d1c9d008",
+        "id": "622b29c0d7a85222d1c9d003"
+    }
+}

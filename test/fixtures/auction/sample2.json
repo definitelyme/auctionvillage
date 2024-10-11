@@ -1,0 +1,68 @@
+{
+    "_meta": {
+        "statusCode": 200,
+        "success": true,
+        "pagination": {
+            "total_count": 3,
+            "per_page": 10,
+            "current": 1,
+            "current_page": "http://localhost:6000/api/v1/ratings/get-rating?deal=62174f638470c8cdca51964c&per_page=10&page=1"
+        }
+    },
+    "data": [
+        {
+            "delivery": 2,
+            "quality": 3,
+            "responsiveness": 2,
+            "reliability": 5,
+            "review": "delivery is pretty low though",
+            "rating": 3,
+            "_id": "62263da016f2e433d82fb94b",
+            "user": "621e5519cf9db73d2366b001",
+            "deal": "62174f638470c8cdca51964c",
+            "createdAt": "2022-03-07T17:15:12.137Z",
+            "updatedAt": "2022-03-07T17:15:12.137Z",
+            "__v": 0,
+            "id": "62263da016f2e433d82fb94b"
+        },
+        {
+            "delivery": 2,
+            "quality": 3,
+            "responsiveness": 2,
+            "reliability": 5,
+            "review": "They really need to work on their deliveries!",
+            "rating": 3,
+            "_id": "622637ba16f2e433d82fb906",
+            "user": "621e5519cf9db73d2366b001",
+            "deal": "62174f638470c8cdca51964c",
+            "createdAt": "2022-03-07T16:50:02.963Z",
+            "updatedAt": "2022-03-07T16:50:02.963Z",
+            "__v": 0,
+            "id": "622637ba16f2e433d82fb906"
+        },
+        {
+            "delivery": 5,
+            "quality": 3,
+            "responsiveness": 2,
+            "reliability": 5,
+            "review": "Amazing Product!",
+            "rating": 3.75,
+            "_id": "62263691dd2a7f2a3461c59c",
+            "user": "621e5519cf9db73d2366b001",
+            "deal": "62174f638470c8cdca51964c",
+            "createdAt": "2022-03-07T16:45:05.162Z",
+            "updatedAt": "2022-03-07T16:45:05.162Z",
+            "__v": 0,
+            "id": "62263691dd2a7f2a3461c59c"
+        },
+        {
+            "average": {
+                "delivery": 3,
+                "responsiveness": 2,
+                "quality": 3,
+                "reliability": 5,
+                "rating": 3.25
+            }
+        }
+    ]
+}

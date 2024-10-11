@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "873003622591",
+    "project_id": "auction-village",
+    "storage_bucket": "auction-village.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873003622591:android:d592b559672e158f8d660a",
+        "android_client_info": {
+          "package_name": "com.mobile.app.auctionvillage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873003622591-4hc45c7le8dht1gf7b184a32rjl5t8mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.app.auctionvillage",
+            "certificate_hash": "f9b9930b05439607e146f1cdb6cd6af2aefc7a5d"
+          }
+        },
+        {
+          "client_id": "873003622591-hbt0uqi7ujvr0kvn76fvulcb3s3t73pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.app.auctionvillage",
+            "certificate_hash": "fd4f1de380f98733d5df47316ba8ec06930d6bff"
+          }
+        },
+        {
+          "client_id": "873003622591-ivdk4pkhctpf5fkv5nm9meainh7vpv9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.app.auctionvillage",
+            "certificate_hash": "fe0711da9cc1b5a0edf0d1494884ec6df38fb553"
+          }
+        },
+        {
+          "client_id": "873003622591-vl6qt6vgnf6mbpmquhhc2gqrqtha4d6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.app.auctionvillage",
+            "certificate_hash": "17e76c1badb2e49ff49b17034b28956c8f971a28"
+          }
+        },
+        {
+          "client_id": "873003622591-murghio3q6ehsp03g9omslc64pu2kuhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAo20L3GkRwqt4ctfdbQ_jspXTqtP5IkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873003622591-murghio3q6ehsp03g9omslc64pu2kuhv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873003622591-33lr75hed92pbdkuk3fbni9p7p8mqkvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.app.auctionvillage.beta",
+                "app_store_id": "1639773834"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873003622591:android:e64e4f81b5b0caae8d660a",
+        "android_client_info": {
+          "package_name": "com.mobile.app.auctionvillage.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873003622591-2o3iqc4lgtu0266j03hflf69aivcgsku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.app.auctionvillage.dev",
+            "certificate_hash": "5703677b90d7ca56567af01eabf6cc40a078fea2"
+          }
+        },
+        {
+          "client_id": "873003622591-9ks2en3823n802pp2o4v5bb692vs0j73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.app.auctionvillage.dev",
+            "certificate_hash": "fe0711da9cc1b5a0edf0d1494884ec6df38fb553"
+          }
+        },
+        {
+          "client_id": "873003622591-grh6pmhlblh1gas1d4m57758tk0k9nsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.app.auctionvillage.dev",
+            "certificate_hash": "fd4f1de380f98733d5df47316ba8ec06930d6bff"
+          }
+        },
+        {
+          "client_id": "873003622591-qg565p5p1m8s9riimcniocchu6g4hro2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.app.auctionvillage.dev",
+            "certificate_hash": "f9b9930b05439607e146f1cdb6cd6af2aefc7a5d"
+          }
+        },
+        {
+          "client_id": "873003622591-qk9vbq7758pmbi5gqug4qh6bojmti4fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.app.auctionvillage.dev",
+            "certificate_hash": "17e76c1badb2e49ff49b17034b28956c8f971a28"
+          }
+        },
+        {
+          "client_id": "873003622591-murghio3q6ehsp03g9omslc64pu2kuhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAo20L3GkRwqt4ctfdbQ_jspXTqtP5IkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873003622591-murghio3q6ehsp03g9omslc64pu2kuhv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873003622591-33lr75hed92pbdkuk3fbni9p7p8mqkvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.app.auctionvillage.beta",
+                "app_store_id": "1639773834"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
